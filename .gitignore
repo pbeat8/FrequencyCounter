@@ -3,3 +3,4 @@ bin/
 .classpath
 # Eclipse Core  
 .project
+.settings
